@@ -23,7 +23,7 @@ global.APIKeys = { // APIKey Here
 	'https://api.zeks.xyz': 'apivinz',
 	'https://pencarikode.xyz': 'pais',
 	'https://leyscoders-api.herokuapp.com': 'dappakntlll',
-	'https://api.lolhuman.xyz': 'apikeylu',
+	'https://api.lolhuman.xyz': 'haikalgans',
 	'https://api.xfarr.com': 'apikeylu' //Regis From api.xfar.com
 }
    // Set pack name sticker on here
